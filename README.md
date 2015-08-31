@@ -1,6 +1,6 @@
 #Roshambo
 
-Version 1.0, 5 August 2015
+####Version 1.0, 5 August 2015####
 By Alexa Zeazas & Evan Clough
 
 ###Description
