@@ -4,7 +4,11 @@
 By Alexa Zeazas & Evan Clough
 
 ###Description
-This app allows the user to play **Rock, Paper, Scissors** against a computer-generated player. In future versions, the user will also be able to play against a friend, as well as keep track of his/her wins and losses record.
+This app allows the user to play **Rock, Paper, Scissors** against a computer-generated player.
+
+_Goals for future updates_
+* _Allow user to play against a friend._
+* _Keep track of user's wins and losses record._
 
 ###Setup
 1. Clone the repo by typing **git clone https://github.com/azeazas/roshambo.git** into the terminal.
